@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDc8760f723329dB8C39259F9B4211fe4b7c51c9E",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xDc8760f723329dB8C39259F9B4211fe4b7c51c9E",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 4
+  },
+  "NFT_NAME": "Zombie Chickens",
+  "SYMBOL": "ZCHICK",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false
+}
